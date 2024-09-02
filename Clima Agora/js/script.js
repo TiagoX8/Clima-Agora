@@ -1,5 +1,5 @@
-const apiKey = "adda97cee19ede398544b6b6a5a74e6b";
-const pexelsApiKey = "NBnHY8WCnS8EcgZfM34igKxme3RcUbY4lTcpXlBfC0c9HfFrW5zGI7B4";
+const apiKey = "";
+const pexelsApiKey = "";
 
 const pexelsApiURL = "https://api.pexels.com/v1/search?query=";
 
